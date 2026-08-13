@@ -1,0 +1,1077 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "storm",
+          "description": "Manage your SSH like a boss.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-08-09T14:46:32Z",
+            "owner": "emre",
+            "repo": "storm",
+            "stars": 3915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Transparent wrapper (ProxyCommand) that adds regex, aliases, gateways, includes, dynamic hostnames to SSH and . Previously:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T03:13:20Z",
+            "owner": "moul",
+            "repo": "assh",
+            "stars": 3216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ec2ssh",
+          "description": "A manager for AWS EC2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-12-25T09:24:42Z",
+            "owner": "mirakui",
+            "repo": "ec2ssh",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssh-config",
+          "description": "A tool to help manage your file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-12-29T20:14:28Z",
+            "owner": "dbrady",
+            "repo": "ssh-config",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ansible-ssh-config",
+          "description": "Letting Ansible manage .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-01-30T02:36:15Z",
+            "owner": "gaqzi",
+            "repo": "ansible-ssh-config",
+            "stars": 96
+          }
+        }
+      ],
+      "title": ""
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "teleport",
+          "description": "Modern SSH server for clusters and teams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:05:46Z",
+            "owner": "gravitational",
+            "repo": "teleport",
+            "stars": 20801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssh-chat",
+          "description": "Chat over SSH.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-10T02:23:23Z",
+            "owner": "shazow",
+            "repo": "ssh-chat",
+            "stars": 5905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whosthere",
+          "description": "A SSH server that knows who you are. .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-16T15:13:22Z",
+            "owner": "FiloSottile",
+            "repo": "whoami.filippo.io",
+            "stars": 2361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShellHub",
+          "description": "A SSH gateway for remotely accessing any Linux device behind firewall and NAT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:27:48Z",
+            "owner": "shellhub-io",
+            "repo": "shellhub",
+            "stars": 2059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshportal",
+          "description": "simple, fun, and transparent SSH (& Telnet) Bastion Server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:55:25Z",
+            "owner": "moul",
+            "repo": "sshportal",
+            "stars": 1940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshmuxd",
+          "description": "frontend.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2020-10-28T21:07:47Z",
+            "owner": "kennylevinsen",
+            "repo": "sshmuxd",
+            "stars": 802
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshcommand",
+          "description": "Turn SSH into a thin client specifically for your app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-06T01:37:23Z",
+            "owner": "dokku",
+            "repo": "sshcommand",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "x84",
+          "description": "A python / server for modern UTF-8 and classic cp437 network virtual terminals. In spirit of classic software such as ami/x, teleguard, renegade, iniquity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-07-30T12:57:11Z",
+            "owner": "jquast",
+            "repo": "x84",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshfront",
+          "description": "Programmable SSH frontend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-15T20:43:47Z",
+            "owner": "gliderlabs",
+            "repo": "sshfront",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssh2docker",
+          "description": "SSH server to Docker containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-11T01:02:45Z",
+            "owner": "moul",
+            "repo": "ssh2docker",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssh-proxy",
+          "description": "Dockerized SSH bastion to proxy SSH connections to arbitrary containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-04T09:53:28Z",
+            "owner": "ml-tooling",
+            "repo": "ssh-proxy",
+            "stars": 87
+          }
+        }
+      ],
+      "title": "Servers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ngrok",
+          "description": "Introspected tunnels to localhost.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-04-26T18:11:18Z",
+            "owner": "inconshreveable",
+            "repo": "ngrok",
+            "stars": 24432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshuttle",
+          "description": "Transparent proxy server that works as a poor man's VPN. Forwards over . Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T04:49:18Z",
+            "owner": "sshuttle",
+            "repo": "sshuttle",
+            "stars": 13513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshfs",
+          "description": "Filesystem client based on the SSH File Transfer Protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-08T10:13:13Z",
+            "owner": "libfuse",
+            "repo": "sshfs",
+            "stars": 7607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sslh",
+          "description": "Applicative Protocol Multiplexer (i.e: SSH + HTTPS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-02T07:03:54Z",
+            "owner": "yrutschle",
+            "repo": "sslh",
+            "stars": 5099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "localtunnel",
+          "description": "Expose localhost servers to the Internet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-05-17T07:58:46Z",
+            "owner": "progrium",
+            "repo": "localtunnel",
+            "stars": 3231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wssh",
+          "description": "SSH to WebSockets Bridge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-12T13:08:18Z",
+            "owner": "aluzzardi",
+            "repo": "wssh",
+            "stars": 1371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshpiper",
+          "description": "The missing reverse proxy for ssh scp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T17:56:33Z",
+            "owner": "tg123",
+            "repo": "sshpiper",
+            "stars": 1295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "switcher",
+          "description": "Run SSH and HTTP(S) on the same port.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-03-15T13:19:58Z",
+            "owner": "jamescun",
+            "repo": "switcher",
+            "stars": 903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshttp",
+          "description": "SSH/HTTP(S) multiplexer. Run a webserver and a on the same port w/o changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-06-22T13:49:06Z",
+            "owner": "stealth",
+            "repo": "sshttp",
+            "stars": 893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quicssh",
+          "description": "QUIC proxy for SSH",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T19:10:50Z",
+            "owner": "moul",
+            "repo": "quicssh",
+            "stars": 860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docker-volume-sshfs",
+          "description": "docker volume plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-06-18T11:58:50Z",
+            "owner": "vieux",
+            "repo": "docker-volume-sshfs",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tund",
+          "description": "SSH reverse tunnel daemon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-02-07T23:14:15Z",
+            "owner": "aphyr",
+            "repo": "tund",
+            "stars": 418
+          }
+        }
+      ],
+      "title": "Network"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "clusterssh",
+          "description": "Cluster admin via SSH.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-04-28T20:19:11Z",
+            "owner": "duncs",
+            "repo": "clusterssh",
+            "stars": 985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i2cssh",
+          "description": "like SSH tool for iTerm2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-04T23:10:17Z",
+            "owner": "wouterdebie",
+            "repo": "i2cssh",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tm",
+          "description": "manager / helper.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-12-22T13:36:12Z",
+            "owner": "Ganneff",
+            "repo": "tm",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tmux-cssh",
+          "description": "with a ClusterSSH-like behavior.",
+          "children": []
+        }
+      ],
+      "title": "Multiplexers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kr",
+          "description": "Kr agent that route access request to the paired mobile phone where Kryptonite is installed.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-11-07T16:09:05Z",
+            "owner": "kryptco",
+            "repo": "kr",
+            "stars": 1572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "totp-ssh-fluxer",
+          "description": "A way to make sure your port changes every 30 seconds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-08-31T19:32:06Z",
+            "owner": "benjojo",
+            "repo": "totp-ssh-fluxer",
+            "stars": 948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "authy-ssh",
+          "description": "Easy two-factor authentication for SSH servers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2018-05-08T17:55:26Z",
+            "owner": "authy",
+            "repo": "authy-ssh",
+            "stars": 793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-auth",
+          "description": "SSH key management for GitHub users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2018-08-27T22:07:18Z",
+            "owner": "chrishunt",
+            "repo": "github-auth",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HIBA",
+          "description": "Central management of access to a fleet of machines without pushing authorized_users files.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2025-05-28T10:59:50Z",
+            "owner": "google",
+            "repo": "hiba",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-keygen",
+          "description": "Easy creation of secure SSH configuration for your GitHub account(s).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-07-27T16:17:48Z",
+            "owner": "dolmen",
+            "repo": "github-keygen",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cipherhub",
+          "description": "Encrypt messages based on SSH public keys with easy import from GitHub.",
+          "children": []
+        }
+      ],
+      "title": "SSH keys / Authentication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "oh-my-zsh/plugins/ssh-agent",
+          "description": "plugin for .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T11:03:43Z",
+            "owner": "ohmyzsh",
+            "repo": "ohmyzsh",
+            "stars": 189139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssh-ident",
+          "description": "Different agents and different keys for different projects, with .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-08T00:34:38Z",
+            "owner": "ccontavalli",
+            "repo": "ssh-ident",
+            "stars": 984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshecret",
+          "description": "Automatically create and manage multiple agents for multiple keys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-05T04:45:46Z",
+            "owner": "thcipriani",
+            "repo": "sshecret",
+            "stars": 72
+          }
+        }
+      ],
+      "title": "SSH agent"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xxh",
+          "description": "Bring your favorite shell wherever you go through the ssh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T04:36:08Z",
+            "owner": "xxh",
+            "repo": "xxh",
+            "stars": 6063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssh-ping",
+          "description": "check if host is reachable using ssh_config",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-08-29T01:56:40Z",
+            "owner": "vaporup",
+            "repo": "ssh-tools",
+            "stars": 886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssh-vault",
+          "description": "encrypt/decrypt files using ssh keys",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-20T22:54:31Z",
+            "owner": "ssh-vault",
+            "repo": "ssh-vault",
+            "stars": 508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSHPry v2",
+          "description": "Spy & Control os SSH Connected client's TTY",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-10-12T04:24:08Z",
+            "owner": "nopernik",
+            "repo": "SSHPry2.0",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kyrat",
+          "description": "SSH wrapper script that brings your dotfiles always with you on Linux and OSX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-05-02T19:56:55Z",
+            "owner": "fsquillace",
+            "repo": "kyrat",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redial",
+          "description": "Terminal Based SSH Session Manager for Unix Systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-18T18:23:36Z",
+            "owner": "taypo",
+            "repo": "redial",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshrc",
+          "description": "Bring your , , etc. with you when you .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-09-15T18:18:24Z",
+            "owner": "danrabinowitz",
+            "repo": "sshrc",
+            "stars": 105
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ansible",
+          "description": "App deployment, configuration management and orchestration over SSH.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:53:38Z",
+            "owner": "ansible",
+            "repo": "ansible",
+            "stars": 70343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rtop",
+          "description": "Interactive, remote system monitoring tool based on SSH.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-06-06T14:35:54Z",
+            "owner": "rapidloop",
+            "repo": "rtop",
+            "stars": 2190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "parallel-ssh",
+          "description": "Provides parallel versions of OpenSSH and related tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T14:03:14Z",
+            "owner": "ParallelSSH",
+            "repo": "parallel-ssh",
+            "stars": 1281
+          }
+        }
+      ],
+      "title": "Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GateOne",
+          "description": "HTML5-powered terminal emulator and SSH client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-17T14:15:06Z",
+            "owner": "liftoff",
+            "repo": "GateOne",
+            "stars": 6297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeyBox",
+          "description": "Web-based SSH console that centrally manages administrative access to systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T02:53:14Z",
+            "owner": "bastillion-io",
+            "repo": "Bastillion",
+            "stars": 3543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSHmon",
+          "description": "Real-time GUI to monitor SSH connections and establish port forwardings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T19:43:50Z",
+            "owner": "hpello",
+            "repo": "sshmon",
+            "stars": 207
+          }
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cowrie",
+          "description": "SSH Honeypot (based on kippo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T11:18:37Z",
+            "owner": "cowrie",
+            "repo": "cowrie",
+            "stars": 6489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssh-audit",
+          "description": "A tool for SSH server auditing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-28T23:48:45Z",
+            "owner": "arthepsy",
+            "repo": "ssh-audit",
+            "stars": 2995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshesame",
+          "description": "A fake SSH server that lets everyone in and logs their activity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-21T23:23:25Z",
+            "owner": "jaksi",
+            "repo": "sshesame",
+            "stars": 1739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kippo",
+          "description": "SSH Honeypot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-19T21:03:37Z",
+            "owner": "desaster",
+            "repo": "kippo",
+            "stars": 1714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssh-hammer",
+          "description": "SSH load testing tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-10-11T19:06:03Z",
+            "owner": "shazow",
+            "repo": "ssh-hammer",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Testing / Honeypots"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GoTTY",
+          "description": "Share your terminal as web application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-01T18:50:55Z",
+            "owner": "yudai",
+            "repo": "gotty",
+            "stars": 19544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ttyd",
+          "description": "Share your terminal over the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T03:39:18Z",
+            "owner": "tsl0922",
+            "repo": "ttyd",
+            "stars": 12189
+          }
+        }
+      ],
+      "title": "Alternatives to SSH"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Golang",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sftp",
+              "description": "SFTP support for the go.crypto/ssh package.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-07-22T14:40:12Z",
+                "owner": "pkg",
+                "repo": "sftp",
+                "stars": 1662
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Socker",
+              "description": "Library for Go to simplify the use of SSH.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2023-03-29T03:51:56Z",
+                "owner": "cosiner",
+                "repo": "socker",
+                "stars": 252
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-sshkit",
+              "description": "Toolkit for building SSH servers and clients in Go.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2015-12-28T20:27:49Z",
+                "owner": "shazow",
+                "repo": "go-sshkit",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-sshkeys",
+              "description": "Golang SSH Keys manipulation library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2023-12-01T17:22:24Z",
+                "owner": "moul",
+                "repo": "go-sshkeys",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Javascript/Node.js",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ssh2",
+              "description": "SSH2 client and server modules written in pure JavaScript for node.js.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-05-27T21:22:45Z",
+                "owner": "mscdex",
+                "repo": "ssh2",
+                "stars": 5813
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Python",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "paramiko",
+              "description": "Native Python SSHv2 protocol library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-09T19:58:37Z",
+                "owner": "paramiko",
+                "repo": "paramiko",
+                "stars": 9827
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ruby",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "net-ssh",
+              "description": "Pure Ruby implementation of an SSH (protocol 2) client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Ruby",
+                "last_commit": "2026-08-09T03:49:19Z",
+                "owner": "net-ssh",
+                "repo": "net-ssh",
+                "stars": 1022
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "To the extent possible under law, Manfred Touron has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:28:37.082Z",
+    "original_repository": "moul/awesome-ssh",
+    "original_repository_sha": "be9bfa2a474ef29aecdc54992ec7d5477f042aeb",
+    "enhanced_repository": "enhansome/enhansome-ssh",
+    "enhanced_repository_description": null,
+    "title": "Awesome SSH with stars"
+  }
+}
