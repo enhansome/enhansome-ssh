@@ -4,7 +4,7 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/moul/awesome-ssh/master/logo.jpg" width="400" /></h2>
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,671 | 🐛 105 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,011 | 🐛 106 | 📅 2026-08-21 list thing.
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
 
@@ -51,10 +51,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Servers
 
-* [teleport](https://github.com/gravitational/teleport) ⭐ 20,835 | 🐛 3,398 | 🌐 Go | 📅 2026-08-21 [![stars](https://img.shields.io/github/stars/gravitational/teleport.svg?style=social\&label=stars)](https://github.com/gravitational/teleport) ⭐ 20,835 | 🐛 3,398 | 🌐 Go | 📅 2026-08-21 - Modern *SSH* server for clusters and teams.
-* [ssh-chat](https://github.com/shazow/ssh-chat) ⭐ 5,908 | 🐛 54 | 🌐 Go | 📅 2026-01-10 [![stars](https://img.shields.io/github/stars/shazow/ssh-chat.svg?style=social\&label=stars)](https://github.com/shazow/ssh-chat) ⭐ 5,908 | 🐛 54 | 🌐 Go | 📅 2026-01-10 - Chat over *SSH*.
+* [teleport](https://github.com/gravitational/teleport) ⭐ 20,838 | 🐛 3,387 | 🌐 Go | 📅 2026-08-21 [![stars](https://img.shields.io/github/stars/gravitational/teleport.svg?style=social\&label=stars)](https://github.com/gravitational/teleport) ⭐ 20,838 | 🐛 3,387 | 🌐 Go | 📅 2026-08-21 - Modern *SSH* server for clusters and teams.
+* [ssh-chat](https://github.com/shazow/ssh-chat) ⭐ 5,909 | 🐛 54 | 🌐 Go | 📅 2026-01-10 [![stars](https://img.shields.io/github/stars/shazow/ssh-chat.svg?style=social\&label=stars)](https://github.com/shazow/ssh-chat) ⭐ 5,909 | 🐛 54 | 🌐 Go | 📅 2026-01-10 - Chat over *SSH*.
 * [whosthere](https://github.com/FiloSottile/whosthere) ⭐ 2,361 | 🐛 10 | 🌐 Go | 📅 2026-04-16 [![stars](https://img.shields.io/github/stars/FiloSottile/whosthere.svg?style=social\&label=stars)](https://github.com/FiloSottile/whosthere) ⭐ 2,361 | 🐛 10 | 🌐 Go | 📅 2026-04-16 - A *SSH* server that knows who you are. `$ ssh whoami.filippo.io`.
-* [ShellHub](https://github.com/shellhub-io/shellhub) ⭐ 2,059 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-21 [![stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=social\&label=stars)](https://github.com/shellhub-io/shellhub) ⭐ 2,059 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-21 - A *SSH* gateway for remotely accessing any Linux device behind firewall and NAT.
+* [ShellHub](https://github.com/shellhub-io/shellhub) ⭐ 2,060 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-21 [![stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=social\&label=stars)](https://github.com/shellhub-io/shellhub) ⭐ 2,060 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-21 - A *SSH* gateway for remotely accessing any Linux device behind firewall and NAT.
 * [sshportal](https://github.com/moul/sshportal) ⭐ 1,940 | 🐛 80 | 🌐 Go | 📅 2026-08-20 [![stars](https://img.shields.io/github/stars/moul/sshportal.svg?style=social\&label=stars)](https://github.com/moul/sshportal) ⭐ 1,940 | 🐛 80 | 🌐 Go | 📅 2026-08-20 - simple, fun, and transparent SSH (& Telnet) Bastion Server
 * [sshmuxd](https://github.com/joushou/sshmuxd) ⚠️ Archived [![stars](https://img.shields.io/github/stars/joushou/sshmuxd.svg?style=social\&label=stars)](https://github.com/joushou/sshmuxd) ⚠️ Archived - `sshmux` frontend.
 * [sshcommand](https://github.com/dokku/sshcommand) ⭐ 387 | 🐛 0 | 🌐 Shell | 📅 2026-08-19 [![stars](https://img.shields.io/github/stars/dokku/sshcommand.svg?style=social\&label=stars)](https://github.com/dokku/sshcommand) ⭐ 387 | 🐛 0 | 🌐 Shell | 📅 2026-08-19 - Turn *SSH* into a thin client specifically for your app.
@@ -67,11 +67,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 * [ngrok](https://github.com/inconshreveable/ngrok) ⚠️ Archived [![stars](https://img.shields.io/github/stars/inconshreveable/ngrok.svg?style=social\&label=stars)](https://github.com/inconshreveable/ngrok) ⚠️ Archived - Introspected tunnels to localhost.
 * [sshuttle](https://github.com/sshuttle/sshuttle) ⭐ 13,526 | 🐛 212 | 🌐 Python | 📅 2026-08-20 [![stars](https://img.shields.io/github/stars/sshuttle/sshuttle.svg?style=social\&label=stars)](https://github.com/sshuttle/sshuttle) ⭐ 13,526 | 🐛 212 | 🌐 Python | 📅 2026-08-20 - Transparent proxy server that works as a poor man's *VPN*. Forwards over `ssh`. Doesn't require admin. Works with *Linux* and *MacOS*. Supports *DNS tunneling*.
-* [sshfs](https://github.com/libfuse/sshfs) ⭐ 7,624 | 🐛 61 | 🌐 C | 📅 2026-08-08 [![stars](https://img.shields.io/github/stars/libfuse/sshfs.svg?style=social\&label=stars)](https://github.com/libfuse/sshfs) ⭐ 7,624 | 🐛 61 | 🌐 C | 📅 2026-08-08 - Filesystem client based on the *SSH* File Transfer Protocol.
+* [sshfs](https://github.com/libfuse/sshfs) ⭐ 7,629 | 🐛 61 | 🌐 C | 📅 2026-08-08 [![stars](https://img.shields.io/github/stars/libfuse/sshfs.svg?style=social\&label=stars)](https://github.com/libfuse/sshfs) ⭐ 7,629 | 🐛 61 | 🌐 C | 📅 2026-08-08 - Filesystem client based on the *SSH* File Transfer Protocol.
 * [sslh](https://github.com/yrutschle/sslh) ⭐ 5,107 | 🐛 47 | 🌐 C | 📅 2026-08-20 [![stars](https://img.shields.io/github/stars/yrutschle/sslh.svg?style=social\&label=stars)](https://github.com/yrutschle/sslh) ⭐ 5,107 | 🐛 47 | 🌐 C | 📅 2026-08-20 - Applicative Protocol Multiplexer (i.e: *SSH* + *HTTPS*).
 * [localtunnel](https://github.com/progrium/localtunnel) ⭐ 3,227 | 🐛 13 | 🌐 Go | 📅 2022-05-17 [![stars](https://img.shields.io/github/stars/progrium/localtunnel.svg?style=social\&label=stars)](https://github.com/progrium/localtunnel) ⭐ 3,227 | 🐛 13 | 🌐 Go | 📅 2022-05-17 - Expose localhost servers to the Internet.
 * [wssh](https://github.com/aluzzardi/wssh) ⭐ 1,371 | 🐛 26 | 🌐 JavaScript | 📅 2019-02-12 [![stars](https://img.shields.io/github/stars/aluzzardi/wssh.svg?style=social\&label=stars)](https://github.com/aluzzardi/wssh) ⭐ 1,371 | 🐛 26 | 🌐 JavaScript | 📅 2019-02-12 - *SSH* to WebSockets Bridge.
-* [sshpiper](https://github.com/tg123/sshpiper) ⭐ 1,298 | 🐛 21 | 🌐 Go | 📅 2026-08-20 [![stars](https://img.shields.io/github/stars/tg123/sshpiper.svg?style=social\&label=stars)](https://github.com/tg123/sshpiper) ⭐ 1,298 | 🐛 21 | 🌐 Go | 📅 2026-08-20 - The missing reverse proxy for ssh scp.
+* [sshpiper](https://github.com/tg123/sshpiper) ⭐ 1,299 | 🐛 21 | 🌐 Go | 📅 2026-08-20 [![stars](https://img.shields.io/github/stars/tg123/sshpiper.svg?style=social\&label=stars)](https://github.com/tg123/sshpiper) ⭐ 1,299 | 🐛 21 | 🌐 Go | 📅 2026-08-20 - The missing reverse proxy for ssh scp.
 * [switcher](https://github.com/jamescun/switcher) ⭐ 903 | 🐛 4 | 🌐 Go | 📅 2019-03-15 [![stars](https://img.shields.io/github/stars/jamescun/switcher.svg?style=social\&label=stars)](https://github.com/jamescun/switcher) ⭐ 903 | 🐛 4 | 🌐 Go | 📅 2019-03-15 - Run *SSH* and *HTTP(S)* on the same port.
 * [sshttp](https://github.com/stealth/sshttp) ⭐ 893 | 🐛 2 | 🌐 C++ | 📅 2023-06-22 [![stars](https://img.shields.io/github/stars/stealth/sshttp.svg?style=social\&label=stars)](https://github.com/stealth/sshttp) ⭐ 893 | 🐛 2 | 🌐 C++ | 📅 2023-06-22 - *SSH*/*HTTP(S)* multiplexer. Run a webserver and a `sshd` on the same port w/o changes.
 * [quicssh](https://github.com/moul/quicssh) ⭐ 860 | 🐛 22 | 🌐 Go | 📅 2026-08-19 [![stars](https://img.shields.io/github/stars/moul/quicssh.svg?style=social\&label=stars)](https://github.com/moul/quicssh) ⭐ 860 | 🐛 22 | 🌐 Go | 📅 2026-08-19 - QUIC proxy for SSH
@@ -104,7 +104,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### *SSH* agent
 
-* [oh-my-zsh/plugins/ssh-agent](https://github.com/robbyrussell/oh-my-zsh) ⭐ 189,303 | 🐛 626 | 🌐 Shell | 📅 2026-08-20 [![stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh.svg?style=social\&label=stars)](https://github.com/robbyrussell/oh-my-zsh) ⭐ 189,303 | 🐛 626 | 🌐 Shell | 📅 2026-08-20 - `ssh-agent` plugin for `zsh`.
+* [oh-my-zsh/plugins/ssh-agent](https://github.com/robbyrussell/oh-my-zsh) ⭐ 189,316 | 🐛 573 | 🌐 Shell | 📅 2026-08-22 [![stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh.svg?style=social\&label=stars)](https://github.com/robbyrussell/oh-my-zsh) ⭐ 189,316 | 🐛 573 | 🌐 Shell | 📅 2026-08-22 - `ssh-agent` plugin for `zsh`.
 * [ssh-ident](https://github.com/ccontavalli/ssh-ident) ⭐ 985 | 🐛 33 | 🌐 Python | 📅 2022-01-08 [![stars](https://img.shields.io/github/stars/ccontavalli/ssh-ident.svg?style=social\&label=stars)](https://github.com/ccontavalli/ssh-ident) ⭐ 985 | 🐛 33 | 🌐 Python | 📅 2022-01-08 - Different agents and different keys for different projects, with `ssh`.
 * [sshecret](https://github.com/thcipriani/sshecret) ⭐ 72 | 🐛 2 | 🌐 Python | 📅 2024-01-05 - Automatically create and manage multiple agents for multiple keys.
 
@@ -120,7 +120,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Automation
 
-* [Ansible](https://github.com/ansible/ansible) ⭐ 70,430 | 🐛 836 | 🌐 Python | 📅 2026-08-19 [![stars](https://img.shields.io/github/stars/ansible/ansible.svg?style=social\&label=stars)](https://github.com/ansible/ansible) ⭐ 70,430 | 🐛 836 | 🌐 Python | 📅 2026-08-19 - App deployment, configuration management and orchestration over *SSH*.
+* [Ansible](https://github.com/ansible/ansible) ⭐ 70,436 | 🐛 838 | 🌐 Python | 📅 2026-08-19 [![stars](https://img.shields.io/github/stars/ansible/ansible.svg?style=social\&label=stars)](https://github.com/ansible/ansible) ⭐ 70,436 | 🐛 838 | 🌐 Python | 📅 2026-08-19 - App deployment, configuration management and orchestration over *SSH*.
 * [rtop](https://github.com/rapidloop/rtop) ⭐ 2,188 | 🐛 23 | 🌐 Go | 📅 2022-06-06 [![stars](https://img.shields.io/github/stars/rapidloop/rtop.svg?style=social\&label=stars)](https://github.com/rapidloop/rtop) ⭐ 2,188 | 🐛 23 | 🌐 Go | 📅 2022-06-06 - Interactive, remote system monitoring tool based on *SSH*.
 * [parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) ⭐ 1,281 | 🐛 10 | 🌐 Python | 📅 2026-08-05 [![stars](https://img.shields.io/github/stars/ParallelSSH/parallel-ssh.svg?style=social\&label=stars)](https://github.com/ParallelSSH/parallel-ssh) ⭐ 1,281 | 🐛 10 | 🌐 Python | 📅 2026-08-05 - Provides parallel versions of OpenSSH and related tools.
 * [DSH - Dancer's shell / distributed shell](https://www.netfort.gr.jp/~dancer/software/dsh.html.en) - Wrapper for executing multiple remote shell commands from one command line.
@@ -136,17 +136,17 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Testing / Honeypots
 
-* [cowrie](https://github.com/micheloosterhof/cowrie) ⭐ 6,501 | 🐛 110 | 🌐 Python | 📅 2026-08-21 [![stars](https://img.shields.io/github/stars/micheloosterhof/cowrie.svg?style=social\&label=stars)](https://github.com/micheloosterhof/cowrie) ⭐ 6,501 | 🐛 110 | 🌐 Python | 📅 2026-08-21 - *SSH* Honeypot (based on kippo).
+* [cowrie](https://github.com/micheloosterhof/cowrie) ⭐ 6,502 | 🐛 110 | 🌐 Python | 📅 2026-08-22 [![stars](https://img.shields.io/github/stars/micheloosterhof/cowrie.svg?style=social\&label=stars)](https://github.com/micheloosterhof/cowrie) ⭐ 6,502 | 🐛 110 | 🌐 Python | 📅 2026-08-22 - *SSH* Honeypot (based on kippo).
 * [ssh-audit](https://github.com/arthepsy/ssh-audit) ⭐ 2,995 | 🐛 31 | 🌐 Python | 📅 2024-06-28 [![stars](https://img.shields.io/github/stars/arthepsy/ssh-audit.svg?style=social\&label=stars)](https://github.com/arthepsy/ssh-audit) ⭐ 2,995 | 🐛 31 | 🌐 Python | 📅 2024-06-28 - A tool for *SSH* server auditing.
-* [sshesame](https://github.com/jaksi/sshesame) ⭐ 1,742 | 🐛 17 | 🌐 Go | 📅 2024-10-21 [![stars](https://img.shields.io/github/stars/jaksi/sshesame.svg?style=social\&label=stars)](https://github.com/jaksi/sshesame) ⭐ 1,742 | 🐛 17 | 🌐 Go | 📅 2024-10-21 - A fake SSH server that lets everyone in and logs their activity.
+* [sshesame](https://github.com/jaksi/sshesame) ⭐ 1,741 | 🐛 17 | 🌐 Go | 📅 2024-10-21 [![stars](https://img.shields.io/github/stars/jaksi/sshesame.svg?style=social\&label=stars)](https://github.com/jaksi/sshesame) ⭐ 1,741 | 🐛 17 | 🌐 Go | 📅 2024-10-21 - A fake SSH server that lets everyone in and logs their activity.
 * [kippo](https://github.com/desaster/kippo) ⭐ 1,714 | 🐛 83 | 🌐 Python | 📅 2023-11-19 [![stars](https://img.shields.io/github/stars/desaster/kippo.svg?style=social\&label=stars)](https://github.com/desaster/kippo) ⭐ 1,714 | 🐛 83 | 🌐 Python | 📅 2023-11-19 - *SSH* Honeypot.
 * [ssh-hammer](https://github.com/shazow/ssh-hammer) ⭐ 15 | 🐛 1 | 🌐 Go | 📅 2021-10-11 [![stars](https://img.shields.io/github/stars/shazow/ssh-hammer.svg?style=social\&label=stars)](https://github.com/shazow/ssh-hammer) ⭐ 15 | 🐛 1 | 🌐 Go | 📅 2021-10-11 - *SSH* load testing tool.
 * [sshmitm](http://linux.die.net/man/8/sshmitm) - *SSH* monkey-in-the-middle.
 
 ### Alternatives to *SSH*
 
-* [GoTTY](https://github.com/yudai/gotty) ⭐ 19,546 | 🐛 158 | 🌐 Go | 📅 2024-08-01 [![stars](https://img.shields.io/github/stars/yudai/gotty.svg?style=social\&label=stars)](https://github.com/yudai/gotty) ⭐ 19,546 | 🐛 158 | 🌐 Go | 📅 2024-08-01 - Share your terminal as web application.
-* [ttyd](https://github.com/tsl0922/ttyd) ⭐ 12,242 | 🐛 112 | 🌐 C | 📅 2026-08-12 [![stars](https://img.shields.io/github/stars/tsl0922/ttyd.svg?style=social\&label=stars)](https://github.com/tsl0922/ttyd) ⭐ 12,242 | 🐛 112 | 🌐 C | 📅 2026-08-12 - Share your terminal over the web.
+* [GoTTY](https://github.com/yudai/gotty) ⭐ 19,549 | 🐛 158 | 🌐 Go | 📅 2024-08-01 [![stars](https://img.shields.io/github/stars/yudai/gotty.svg?style=social\&label=stars)](https://github.com/yudai/gotty) ⭐ 19,549 | 🐛 158 | 🌐 Go | 📅 2024-08-01 - Share your terminal as web application.
+* [ttyd](https://github.com/tsl0922/ttyd) ⭐ 12,246 | 🐛 112 | 🌐 C | 📅 2026-08-12 [![stars](https://img.shields.io/github/stars/tsl0922/ttyd.svg?style=social\&label=stars)](https://github.com/tsl0922/ttyd) ⭐ 12,246 | 🐛 112 | 🌐 C | 📅 2026-08-12 - Share your terminal over the web.
 * [telnet](http://www.telnet.org/htm/faq.htm) - An unencrypted network protocol and an application used to connect to remote computers and issue commands.
 * [rsh](https://en.wikipedia.org/wiki/Remote_Shell) - An unencrypted network protocol and application used to connect to remote computers and issue commands.
 
@@ -163,7 +163,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * Java
   * [jsch](http://www.jcraft.com/jsch/) - Pure *java*, *BSD* licensed, *SSH2* client library.
 * Javascript/Node.js
-  * [ssh2](https://github.com/mscdex/ssh2) ⭐ 5,814 | 🐛 99 | 🌐 JavaScript | 📅 2026-08-20 [![stars](https://img.shields.io/github/stars/mscdex/ssh2.svg?style=social\&label=stars)](https://github.com/mscdex/ssh2) ⭐ 5,814 | 🐛 99 | 🌐 JavaScript | 📅 2026-08-20 - *SSH2* client and server modules written in pure *JavaScript* for *node.js*.
+  * [ssh2](https://github.com/mscdex/ssh2) ⭐ 5,815 | 🐛 99 | 🌐 JavaScript | 📅 2026-08-20 [![stars](https://img.shields.io/github/stars/mscdex/ssh2.svg?style=social\&label=stars)](https://github.com/mscdex/ssh2) ⭐ 5,815 | 🐛 99 | 🌐 JavaScript | 📅 2026-08-20 - *SSH2* client and server modules written in pure *JavaScript* for *node.js*.
 * Python
   * [paramiko](https://github.com/paramiko/paramiko) ⭐ 9,832 | 🐛 1,192 | 🌐 Python | 📅 2026-05-09 [![stars](https://img.shields.io/github/stars/paramiko/paramiko.svg?style=social\&label=stars)](https://github.com/paramiko/paramiko) ⭐ 9,832 | 🐛 1,192 | 🌐 Python | 📅 2026-05-09 - Native *Python* *SSHv2* protocol library.
 * Ruby
@@ -204,4 +204,4 @@ To the extent possible under law, [Manfred Touron](https://github.com/moul) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

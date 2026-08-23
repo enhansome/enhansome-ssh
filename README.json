@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-21T18:13:10Z",
                 "owner": "gravitational",
                 "repo": "teleport",
-                "stars": 20835
+                "stars": 20838
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2026-01-10T02:23:23Z",
                 "owner": "shazow",
                 "repo": "ssh-chat",
-                "stars": 5908
+                "stars": 5909
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-08-21T21:09:54Z",
                 "owner": "shellhub-io",
                 "repo": "shellhub",
-                "stars": 2059
+                "stars": 2060
               }
             },
             {
@@ -294,7 +294,7 @@
                 "last_commit": "2026-08-08T10:13:13Z",
                 "owner": "libfuse",
                 "repo": "sshfs",
-                "stars": 7624
+                "stars": 7629
               }
             },
             {
@@ -354,7 +354,7 @@
                 "last_commit": "2026-08-20T05:56:38Z",
                 "owner": "tg123",
                 "repo": "sshpiper",
-                "stars": 1298
+                "stars": 1299
               }
             },
             {
@@ -597,10 +597,10 @@
                 "archived": false,
                 "id": 291137,
                 "language": "Shell",
-                "last_commit": "2026-08-20T08:43:08Z",
+                "last_commit": "2026-08-22T15:24:24Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189303
+                "stars": 189316
               }
             },
             {
@@ -764,7 +764,7 @@
                 "last_commit": "2026-08-19T18:12:49Z",
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70430
+                "stars": 70436
               }
             },
             {
@@ -865,10 +865,10 @@
                 "archived": false,
                 "id": 35494746,
                 "language": "Python",
-                "last_commit": "2026-08-21T11:42:15Z",
+                "last_commit": "2026-08-22T23:22:12Z",
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6501
+                "stars": 6502
               }
             },
             {
@@ -898,7 +898,7 @@
                 "last_commit": "2024-10-21T23:23:25Z",
                 "owner": "jaksi",
                 "repo": "sshesame",
-                "stars": 1742
+                "stars": 1741
               }
             },
             {
@@ -950,7 +950,7 @@
                 "last_commit": "2024-08-01T18:50:55Z",
                 "owner": "yudai",
                 "repo": "gotty",
-                "stars": 19546
+                "stars": 19549
               }
             },
             {
@@ -965,7 +965,7 @@
                 "last_commit": "2026-08-12T03:39:18Z",
                 "owner": "tsl0922",
                 "repo": "ttyd",
-                "stars": 12242
+                "stars": 12246
               }
             }
           ],
@@ -1063,7 +1063,7 @@
                 "last_commit": "2026-08-20T21:41:06Z",
                 "owner": "mscdex",
                 "repo": "ssh2",
-                "stars": 5814
+                "stars": 5815
               }
             }
           ]
@@ -1117,7 +1117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:30:05.158Z",
+    "last_updated": "2026-08-23T02:39:01.715Z",
     "original_repository": "moul/awesome-ssh",
     "original_repository_id": 49391609,
     "original_repository_sha": "be9bfa2a474ef29aecdc54992ec7d5477f042aeb",
