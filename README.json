@@ -20,14 +20,14 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "assh",
           "description": "Transparent wrapper (ProxyCommand) that adds regex, aliases, gateways, includes, dynamic hostnames to SSH and . Previously:",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 3049190,
             "language": "Go",
-            "last_commit": "2026-08-21T04:48:10Z",
+            "last_commit": "2026-08-24T04:02:30Z",
             "owner": "moul",
             "repo": "assh",
             "stars": 3218
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 187078631,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T06:20:09Z",
+                "last_commit": "2026-08-24T11:56:23Z",
                 "owner": "shellhub-io",
                 "repo": "shellhub",
                 "stars": 2061
@@ -179,7 +179,7 @@
                 "archived": false,
                 "id": 10633757,
                 "language": "Shell",
-                "last_commit": "2026-08-19T03:11:16Z",
+                "last_commit": "2026-08-24T06:21:23Z",
                 "owner": "dokku",
                 "repo": "sshcommand",
                 "stars": 387
@@ -276,7 +276,7 @@
                 "archived": false,
                 "id": 24043280,
                 "language": "Python",
-                "last_commit": "2026-08-20T22:04:56Z",
+                "last_commit": "2026-08-24T10:35:12Z",
                 "owner": "sshuttle",
                 "repo": "sshuttle",
                 "stars": 13526
@@ -294,7 +294,7 @@
                 "last_commit": "2026-08-08T10:13:13Z",
                 "owner": "libfuse",
                 "repo": "sshfs",
-                "stars": 7631
+                "stars": 7633
               }
             },
             {
@@ -597,10 +597,10 @@
                 "archived": false,
                 "id": 291137,
                 "language": "Shell",
-                "last_commit": "2026-08-23T12:53:50Z",
+                "last_commit": "2026-08-24T06:41:53Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189331
+                "stars": 189347
               }
             },
             {
@@ -764,7 +764,7 @@
                 "last_commit": "2026-08-19T18:12:49Z",
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70442
+                "stars": 70445
               }
             },
             {
@@ -794,7 +794,7 @@
                 "last_commit": "2026-08-05T14:03:14Z",
                 "owner": "ParallelSSH",
                 "repo": "parallel-ssh",
-                "stars": 1281
+                "stars": 1282
               }
             }
           ],
@@ -828,7 +828,7 @@
                 "archived": false,
                 "id": 8083731,
                 "language": "Java",
-                "last_commit": "2026-08-18T12:20:24Z",
+                "last_commit": "2026-08-24T02:53:29Z",
                 "owner": "bastillion-io",
                 "repo": "Bastillion",
                 "stars": 3541
@@ -865,10 +865,10 @@
                 "archived": false,
                 "id": 35494746,
                 "language": "Python",
-                "last_commit": "2026-08-24T01:06:30Z",
+                "last_commit": "2026-08-24T06:05:46Z",
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6503
+                "stars": 6502
               }
             },
             {
@@ -965,7 +965,7 @@
                 "last_commit": "2026-08-12T03:39:18Z",
                 "owner": "tsl0922",
                 "repo": "ttyd",
-                "stars": 12249
+                "stars": 12253
               }
             }
           ],
@@ -996,7 +996,7 @@
                 "last_commit": "2026-07-22T14:40:12Z",
                 "owner": "pkg",
                 "repo": "sftp",
-                "stars": 1660
+                "stars": 1661
               }
             },
             {
@@ -1085,7 +1085,7 @@
                 "last_commit": "2026-05-09T19:58:37Z",
                 "owner": "paramiko",
                 "repo": "paramiko",
-                "stars": 9833
+                "stars": 9834
               }
             }
           ]
@@ -1117,7 +1117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:39:35.894Z",
+    "last_updated": "2026-08-24T14:03:13.410Z",
     "original_repository": "moul/awesome-ssh",
     "original_repository_id": 49391609,
     "original_repository_sha": "be9bfa2a474ef29aecdc54992ec7d5477f042aeb",
