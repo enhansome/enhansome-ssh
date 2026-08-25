@@ -107,7 +107,7 @@
                 "last_commit": "2026-01-10T02:23:23Z",
                 "owner": "shazow",
                 "repo": "ssh-chat",
-                "stars": 5909
+                "stars": 5910
               }
             },
             {
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 187078631,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T22:53:40Z",
+                "last_commit": "2026-08-25T04:20:50Z",
                 "owner": "shellhub-io",
                 "repo": "shellhub",
                 "stars": 2061
@@ -182,7 +182,7 @@
                 "last_commit": "2026-08-24T06:21:23Z",
                 "owner": "dokku",
                 "repo": "sshcommand",
-                "stars": 387
+                "stars": 388
               }
             },
             {
@@ -600,7 +600,7 @@
                 "last_commit": "2026-08-24T16:33:49Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189351
+                "stars": 189356
               }
             },
             {
@@ -764,7 +764,7 @@
                 "last_commit": "2026-08-19T18:12:49Z",
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70447
+                "stars": 70450
               }
             },
             {
@@ -996,7 +996,7 @@
                 "last_commit": "2026-07-22T14:40:12Z",
                 "owner": "pkg",
                 "repo": "sftp",
-                "stars": 1661
+                "stars": 1662
               }
             },
             {
@@ -1117,7 +1117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:33:29.217Z",
+    "last_updated": "2026-08-25T05:58:28.462Z",
     "original_repository": "moul/awesome-ssh",
     "original_repository_id": 49391609,
     "original_repository_sha": "be9bfa2a474ef29aecdc54992ec7d5477f042aeb",
