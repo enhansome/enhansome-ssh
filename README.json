@@ -600,7 +600,7 @@
                 "last_commit": "2026-08-25T14:40:25Z",
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189408
+                "stars": 189409
               }
             },
             {
@@ -764,7 +764,7 @@
                 "last_commit": "2026-08-26T21:11:29Z",
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70477
+                "stars": 70480
               }
             },
             {
@@ -1117,7 +1117,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:14:31.001Z",
+    "last_updated": "2026-08-27T12:03:46.886Z",
     "original_repository_info": {
       "archived": false,
       "id": 49391609,

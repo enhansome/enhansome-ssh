@@ -4,7 +4,7 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/moul/awesome-ssh/master/logo.jpg" width="400" /></h2>
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,356 | 🐛 105 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,367 | 🐛 105 | 📅 2026-08-21 list thing.
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
 
@@ -51,7 +51,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Servers
 
-* [teleport](https://github.com/gravitational/teleport) ⭐ 20,853 | 🐛 3,352 | 🌐 Go | 📅 2026-08-26 [![stars](https://img.shields.io/github/stars/gravitational/teleport.svg?style=social\&label=stars)](https://github.com/gravitational/teleport) ⭐ 20,853 | 🐛 3,352 | 🌐 Go | 📅 2026-08-26 - Modern *SSH* server for clusters and teams.
+* [teleport](https://github.com/gravitational/teleport) ⭐ 20,853 | 🐛 3,353 | 🌐 Go | 📅 2026-08-26 [![stars](https://img.shields.io/github/stars/gravitational/teleport.svg?style=social\&label=stars)](https://github.com/gravitational/teleport) ⭐ 20,853 | 🐛 3,353 | 🌐 Go | 📅 2026-08-26 - Modern *SSH* server for clusters and teams.
 * [ssh-chat](https://github.com/shazow/ssh-chat) ⭐ 5,910 | 🐛 54 | 🌐 Go | 📅 2026-01-10 [![stars](https://img.shields.io/github/stars/shazow/ssh-chat.svg?style=social\&label=stars)](https://github.com/shazow/ssh-chat) ⭐ 5,910 | 🐛 54 | 🌐 Go | 📅 2026-01-10 - Chat over *SSH*.
 * [whosthere](https://github.com/FiloSottile/whosthere) ⭐ 2,361 | 🐛 10 | 🌐 Go | 📅 2026-04-16 [![stars](https://img.shields.io/github/stars/FiloSottile/whosthere.svg?style=social\&label=stars)](https://github.com/FiloSottile/whosthere) ⭐ 2,361 | 🐛 10 | 🌐 Go | 📅 2026-04-16 - A *SSH* server that knows who you are. `$ ssh whoami.filippo.io`.
 * [ShellHub](https://github.com/shellhub-io/shellhub) ⭐ 2,063 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-26 [![stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=social\&label=stars)](https://github.com/shellhub-io/shellhub) ⭐ 2,063 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-26 - A *SSH* gateway for remotely accessing any Linux device behind firewall and NAT.
@@ -104,7 +104,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### *SSH* agent
 
-* [oh-my-zsh/plugins/ssh-agent](https://github.com/robbyrussell/oh-my-zsh) ⭐ 189,408 | 🐛 576 | 🌐 Shell | 📅 2026-08-25 [![stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh.svg?style=social\&label=stars)](https://github.com/robbyrussell/oh-my-zsh) ⭐ 189,408 | 🐛 576 | 🌐 Shell | 📅 2026-08-25 - `ssh-agent` plugin for `zsh`.
+* [oh-my-zsh/plugins/ssh-agent](https://github.com/robbyrussell/oh-my-zsh) ⭐ 189,409 | 🐛 576 | 🌐 Shell | 📅 2026-08-25 [![stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh.svg?style=social\&label=stars)](https://github.com/robbyrussell/oh-my-zsh) ⭐ 189,409 | 🐛 576 | 🌐 Shell | 📅 2026-08-25 - `ssh-agent` plugin for `zsh`.
 * [ssh-ident](https://github.com/ccontavalli/ssh-ident) ⭐ 985 | 🐛 33 | 🌐 Python | 📅 2022-01-08 [![stars](https://img.shields.io/github/stars/ccontavalli/ssh-ident.svg?style=social\&label=stars)](https://github.com/ccontavalli/ssh-ident) ⭐ 985 | 🐛 33 | 🌐 Python | 📅 2022-01-08 - Different agents and different keys for different projects, with `ssh`.
 * [sshecret](https://github.com/thcipriani/sshecret) ⭐ 72 | 🐛 2 | 🌐 Python | 📅 2024-01-05 - Automatically create and manage multiple agents for multiple keys.
 
@@ -120,7 +120,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Automation
 
-* [Ansible](https://github.com/ansible/ansible) ⭐ 70,477 | 🐛 834 | 🌐 Python | 📅 2026-08-26 [![stars](https://img.shields.io/github/stars/ansible/ansible.svg?style=social\&label=stars)](https://github.com/ansible/ansible) ⭐ 70,477 | 🐛 834 | 🌐 Python | 📅 2026-08-26 - App deployment, configuration management and orchestration over *SSH*.
+* [Ansible](https://github.com/ansible/ansible) ⭐ 70,480 | 🐛 834 | 🌐 Python | 📅 2026-08-26 [![stars](https://img.shields.io/github/stars/ansible/ansible.svg?style=social\&label=stars)](https://github.com/ansible/ansible) ⭐ 70,480 | 🐛 834 | 🌐 Python | 📅 2026-08-26 - App deployment, configuration management and orchestration over *SSH*.
 * [rtop](https://github.com/rapidloop/rtop) ⭐ 2,187 | 🐛 23 | 🌐 Go | 📅 2022-06-06 [![stars](https://img.shields.io/github/stars/rapidloop/rtop.svg?style=social\&label=stars)](https://github.com/rapidloop/rtop) ⭐ 2,187 | 🐛 23 | 🌐 Go | 📅 2022-06-06 - Interactive, remote system monitoring tool based on *SSH*.
 * [parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) ⭐ 1,282 | 🐛 10 | 🌐 Python | 📅 2026-08-05 [![stars](https://img.shields.io/github/stars/ParallelSSH/parallel-ssh.svg?style=social\&label=stars)](https://github.com/ParallelSSH/parallel-ssh) ⭐ 1,282 | 🐛 10 | 🌐 Python | 📅 2026-08-05 - Provides parallel versions of OpenSSH and related tools.
 * [DSH - Dancer's shell / distributed shell](https://www.netfort.gr.jp/~dancer/software/dsh.html.en) - Wrapper for executing multiple remote shell commands from one command line.
