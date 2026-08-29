@@ -434,7 +434,7 @@
                 "open_issues": 0,
                 "owner": "inconshreveable",
                 "repo": "ngrok",
-                "stars": 24429,
+                "stars": 24430,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -953,7 +953,7 @@
                 "open_issues": 574,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189428,
+                "stars": 189429,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1586,7 +1586,7 @@
                 "open_issues": 113,
                 "owner": "tsl0922",
                 "repo": "ttyd",
-                "stars": 12275,
+                "stars": 12276,
                 "topics": [
                   "openwrt",
                   "ssl",
@@ -1799,7 +1799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:21:21.729Z",
+    "last_updated": "2026-08-29T07:55:15.880Z",
     "original_repository_info": {
       "archived": false,
       "description": ":computer: A curated list of SSH resources.",
@@ -1811,7 +1811,7 @@
       "open_issues": 46,
       "owner": "moul",
       "repo": "awesome-ssh",
-      "stars": 2835,
+      "stars": 2836,
       "topics": [
         "awesome",
         "awesome-list",
