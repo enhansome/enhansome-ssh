@@ -19,7 +19,7 @@
             "open_issues": 32,
             "owner": "emre",
             "repo": "storm",
-            "stars": 3914,
+            "stars": 3913,
             "topics": [
               "python",
               "ssh",
@@ -40,11 +40,11 @@
             "id": 3049190,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-29T01:14:55Z",
+            "last_commit": "2026-08-30T05:43:57Z",
             "open_issues": 100,
             "owner": "moul",
             "repo": "assh",
-            "stars": 3220,
+            "stars": 3221,
             "topics": [
               "automation",
               "config",
@@ -137,7 +137,7 @@
                 "open_issues": 3331,
                 "owner": "gravitational",
                 "repo": "teleport",
-                "stars": 20857,
+                "stars": 20858,
                 "topics": [
                   "audit",
                   "bastion",
@@ -222,7 +222,7 @@
                 "id": 187078631,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T23:18:56Z",
+                "last_commit": "2026-08-29T13:33:18Z",
                 "open_issues": 22,
                 "owner": "shellhub-io",
                 "repo": "shellhub",
@@ -254,7 +254,7 @@
                 "id": 108840022,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T01:02:00Z",
+                "last_commit": "2026-08-30T05:51:04Z",
                 "open_issues": 81,
                 "owner": "moul",
                 "repo": "sshportal",
@@ -455,7 +455,7 @@
                 "open_issues": 212,
                 "owner": "sshuttle",
                 "repo": "sshuttle",
-                "stars": 13532,
+                "stars": 13533,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -476,7 +476,7 @@
                 "open_issues": 62,
                 "owner": "libfuse",
                 "repo": "sshfs",
-                "stars": 7640,
+                "stars": 7643,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -560,7 +560,7 @@
                 "open_issues": 21,
                 "owner": "tg123",
                 "repo": "sshpiper",
-                "stars": 1304,
+                "stars": 1306,
                 "topics": [
                   "auditing",
                   "azuread",
@@ -680,7 +680,7 @@
                 "open_issues": 44,
                 "owner": "vieux",
                 "repo": "docker-volume-sshfs",
-                "stars": 599,
+                "stars": 600,
                 "topics": [
                   "docker",
                   "docker-volume-plugin",
@@ -950,10 +950,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-08-29T00:43:45Z",
-                "open_issues": 574,
+                "open_issues": 576,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189429,
+                "stars": 189450,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1231,7 +1231,7 @@
                 "open_issues": 836,
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70491,
+                "stars": 70497,
                 "topics": [
                   "ansible",
                   "python"
@@ -1421,7 +1421,7 @@
                 "open_issues": 119,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6508,
+                "stars": 6510,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -1480,7 +1480,7 @@
                 "open_issues": 17,
                 "owner": "jaksi",
                 "repo": "sshesame",
-                "stars": 1741,
+                "stars": 1742,
                 "topics": [
                   "go",
                   "golang",
@@ -1556,7 +1556,7 @@
                 "open_issues": 158,
                 "owner": "yudai",
                 "repo": "gotty",
-                "stars": 19547,
+                "stars": 19549,
                 "topics": [
                   "browser",
                   "go",
@@ -1586,7 +1586,7 @@
                 "open_issues": 113,
                 "owner": "tsl0922",
                 "repo": "ttyd",
-                "stars": 12276,
+                "stars": 12278,
                 "topics": [
                   "openwrt",
                   "ssl",
@@ -1755,11 +1755,11 @@
                 "id": 119609,
                 "language": "Python",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-05-09T19:58:37Z",
-                "open_issues": 1192,
+                "last_commit": "2026-08-29T20:45:26Z",
+                "open_issues": 1191,
                 "owner": "paramiko",
                 "repo": "paramiko",
-                "stars": 9841,
+                "stars": 9842,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -1784,7 +1784,7 @@
                 "language": "Ruby",
                 "license": "MIT",
                 "last_commit": "2026-08-09T03:49:19Z",
-                "open_issues": 121,
+                "open_issues": 124,
                 "owner": "net-ssh",
                 "repo": "net-ssh",
                 "stars": 1023,
@@ -1799,7 +1799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:55:15.880Z",
+    "last_updated": "2026-08-30T06:50:05.338Z",
     "original_repository_info": {
       "archived": false,
       "description": ":computer: A curated list of SSH resources.",
