@@ -44,7 +44,7 @@
             "open_issues": 100,
             "owner": "moul",
             "repo": "assh",
-            "stars": 3220,
+            "stars": 3221,
             "topics": [
               "automation",
               "config",
@@ -133,11 +133,11 @@
                 "id": 31558937,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-08T22:43:18Z",
-                "open_issues": 3321,
+                "last_commit": "2026-09-10T05:20:57Z",
+                "open_issues": 3332,
                 "owner": "gravitational",
                 "repo": "teleport",
-                "stars": 20897,
+                "stars": 20900,
                 "topics": [
                   "audit",
                   "bastion",
@@ -179,7 +179,7 @@
                 "open_issues": 54,
                 "owner": "shazow",
                 "repo": "ssh-chat",
-                "stars": 5908,
+                "stars": 5909,
                 "topics": [
                   "chat",
                   "server",
@@ -205,7 +205,7 @@
                 "open_issues": 10,
                 "owner": "FiloSottile",
                 "repo": "whoami.filippo.io",
-                "stars": 2364,
+                "stars": 2363,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -222,8 +222,8 @@
                 "id": 187078631,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T00:52:54Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-10T03:01:41Z",
+                "open_issues": 30,
                 "owner": "shellhub-io",
                 "repo": "shellhub",
                 "stars": 2065,
@@ -258,7 +258,7 @@
                 "open_issues": 81,
                 "owner": "moul",
                 "repo": "sshportal",
-                "stars": 1940,
+                "stars": 1939,
                 "topics": [
                   "bastion",
                   "devops",
@@ -434,7 +434,7 @@
                 "open_issues": 0,
                 "owner": "inconshreveable",
                 "repo": "ngrok",
-                "stars": 24427,
+                "stars": 24425,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -455,7 +455,7 @@
                 "open_issues": 212,
                 "owner": "sshuttle",
                 "repo": "sshuttle",
-                "stars": 13544,
+                "stars": 13547,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -476,7 +476,7 @@
                 "open_issues": 62,
                 "owner": "libfuse",
                 "repo": "sshfs",
-                "stars": 7660,
+                "stars": 7663,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -651,7 +651,7 @@
                 "open_issues": 22,
                 "owner": "moul",
                 "repo": "quicssh",
-                "stars": 862,
+                "stars": 863,
                 "topics": [
                   "cli",
                   "daemon",
@@ -949,11 +949,11 @@
                 "id": 291137,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-09T02:53:36Z",
-                "open_issues": 379,
+                "last_commit": "2026-09-09T19:46:42Z",
+                "open_issues": 368,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189640,
+                "stars": 189646,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1044,7 +1044,7 @@
                 "open_issues": 30,
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6084,
+                "stars": 6083,
                 "topics": [
                   "awesome",
                   "awesome-ssh",
@@ -1227,11 +1227,11 @@
                 "id": 3638964,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-08T19:10:18Z",
-                "open_issues": 836,
+                "last_commit": "2026-09-09T19:46:47Z",
+                "open_issues": 832,
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70620,
+                "stars": 70622,
                 "topics": [
                   "ansible",
                   "python"
@@ -1350,7 +1350,7 @@
                 "open_issues": 130,
                 "owner": "bastillion-io",
                 "repo": "Bastillion",
-                "stars": 3544,
+                "stars": 3545,
                 "topics": [
                   "bastion-host",
                   "devops",
@@ -1418,7 +1418,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-07T08:27:03Z",
-                "open_issues": 86,
+                "open_issues": 87,
                 "owner": "cowrie",
                 "repo": "cowrie",
                 "stars": 6525,
@@ -1556,7 +1556,7 @@
                 "open_issues": 158,
                 "owner": "yudai",
                 "repo": "gotty",
-                "stars": 19550,
+                "stars": 19551,
                 "topics": [
                   "browser",
                   "go",
@@ -1586,7 +1586,7 @@
                 "open_issues": 113,
                 "owner": "tsl0922",
                 "repo": "ttyd",
-                "stars": 12337,
+                "stars": 12341,
                 "topics": [
                   "openwrt",
                   "ssl",
@@ -1759,7 +1759,7 @@
                 "open_issues": 1191,
                 "owner": "paramiko",
                 "repo": "paramiko",
-                "stars": 9846,
+                "stars": 9848,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -1799,7 +1799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:06:38.580Z",
+    "last_updated": "2026-09-10T06:06:03.217Z",
     "original_repository_info": {
       "archived": false,
       "description": ":computer: A curated list of SSH resources.",
@@ -1808,10 +1808,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2023-08-10T10:15:24Z",
-      "open_issues": 47,
+      "open_issues": 48,
       "owner": "moul",
       "repo": "awesome-ssh",
-      "stars": 2838,
+      "stars": 2839,
       "topics": [
         "awesome",
         "awesome-list",
