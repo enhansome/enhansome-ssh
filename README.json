@@ -40,7 +40,7 @@
             "id": 3049190,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-18T21:15:02Z",
+            "last_commit": "2026-09-20T18:51:45Z",
             "open_issues": 100,
             "owner": "moul",
             "repo": "assh",
@@ -179,7 +179,7 @@
                 "open_issues": 54,
                 "owner": "shazow",
                 "repo": "ssh-chat",
-                "stars": 5912,
+                "stars": 5911,
                 "topics": [
                   "chat",
                   "server",
@@ -434,7 +434,7 @@
                 "open_issues": 0,
                 "owner": "inconshreveable",
                 "repo": "ngrok",
-                "stars": 24422,
+                "stars": 24420,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -476,7 +476,7 @@
                 "open_issues": 61,
                 "owner": "libfuse",
                 "repo": "sshfs",
-                "stars": 7671,
+                "stars": 7672,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -560,7 +560,7 @@
                 "open_issues": 23,
                 "owner": "tg123",
                 "repo": "sshpiper",
-                "stars": 1318,
+                "stars": 1319,
                 "topics": [
                   "auditing",
                   "azuread",
@@ -918,7 +918,7 @@
                 "open_issues": 25,
                 "owner": "dolmen",
                 "repo": "github-keygen",
-                "stars": 271,
+                "stars": 272,
                 "topics": [
                   "cli-app",
                   "github",
@@ -949,11 +949,11 @@
                 "id": 291137,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-20T06:25:57Z",
-                "open_issues": 316,
+                "last_commit": "2026-09-20T15:14:29Z",
+                "open_issues": 315,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189838,
+                "stars": 189853,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1044,7 +1044,7 @@
                 "open_issues": 30,
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6094,
+                "stars": 6095,
                 "topics": [
                   "awesome",
                   "awesome-ssh",
@@ -1231,7 +1231,7 @@
                 "open_issues": 836,
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70741,
+                "stars": 70754,
                 "topics": [
                   "ansible",
                   "python"
@@ -1255,7 +1255,7 @@
                 "open_issues": 23,
                 "owner": "rapidloop",
                 "repo": "rtop",
-                "stars": 2188,
+                "stars": 2189,
                 "topics": [
                   "cli",
                   "monitoring",
@@ -1346,8 +1346,8 @@
                 "id": 8083731,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T19:46:32Z",
-                "open_issues": 130,
+                "last_commit": "2026-09-21T02:54:16Z",
+                "open_issues": 131,
                 "owner": "Loophole-LLC",
                 "repo": "Bastillion",
                 "stars": 3550,
@@ -1417,11 +1417,11 @@
                 "id": 35494746,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T07:45:02Z",
-                "open_issues": 65,
+                "last_commit": "2026-09-21T06:03:00Z",
+                "open_issues": 71,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6546,
+                "stars": 6547,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -1556,7 +1556,7 @@
                 "open_issues": 158,
                 "owner": "yudai",
                 "repo": "gotty",
-                "stars": 19552,
+                "stars": 19554,
                 "topics": [
                   "browser",
                   "go",
@@ -1586,7 +1586,7 @@
                 "open_issues": 116,
                 "owner": "tsl0922",
                 "repo": "ttyd",
-                "stars": 12391,
+                "stars": 12399,
                 "topics": [
                   "openwrt",
                   "ssl",
@@ -1759,7 +1759,7 @@
                 "open_issues": 1197,
                 "owner": "paramiko",
                 "repo": "paramiko",
-                "stars": 9858,
+                "stars": 9859,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -1799,7 +1799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T06:27:16.263Z",
+    "last_updated": "2026-09-21T06:33:30.644Z",
     "original_repository_info": {
       "archived": false,
       "description": ":computer: A curated list of SSH resources.",
@@ -1811,7 +1811,7 @@
       "open_issues": 48,
       "owner": "moul",
       "repo": "awesome-ssh",
-      "stars": 2841,
+      "stars": 2842,
       "topics": [
         "awesome",
         "awesome-list",
