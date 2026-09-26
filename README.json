@@ -44,7 +44,7 @@
             "open_issues": 100,
             "owner": "moul",
             "repo": "assh",
-            "stars": 3224,
+            "stars": 3225,
             "topics": [
               "automation",
               "config",
@@ -134,10 +134,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-17T15:49:47Z",
-                "open_issues": 3232,
+                "open_issues": 3234,
                 "owner": "gravitational",
                 "repo": "teleport",
-                "stars": 20939,
+                "stars": 20943,
                 "topics": [
                   "audit",
                   "bastion",
@@ -220,10 +220,10 @@
                 "description": ":computer: Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing",
                 "homepage": "https://shellhub.io",
                 "id": 187078631,
-                "language": "Go",
+                "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T05:52:48Z",
-                "open_issues": 34,
+                "last_commit": "2026-09-26T06:01:26Z",
+                "open_issues": 27,
                 "owner": "shellhub-io",
                 "repo": "shellhub",
                 "stars": 2068,
@@ -455,7 +455,7 @@
                 "open_issues": 210,
                 "owner": "sshuttle",
                 "repo": "sshuttle",
-                "stars": 13568,
+                "stars": 13569,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -473,10 +473,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-16T13:03:13Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "libfuse",
                 "repo": "sshfs",
-                "stars": 7677,
+                "stars": 7678,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -539,7 +539,7 @@
                 "open_issues": 26,
                 "owner": "aluzzardi",
                 "repo": "wssh",
-                "stars": 1370,
+                "stars": 1371,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -560,7 +560,7 @@
                 "open_issues": 23,
                 "owner": "tg123",
                 "repo": "sshpiper",
-                "stars": 1321,
+                "stars": 1323,
                 "topics": [
                   "auditing",
                   "azuread",
@@ -884,7 +884,7 @@
               "description": "Central management of access to a fleet of machines without pushing authorized_users files.",
               "children": [],
               "repo_info": {
-                "archived": true,
+                "archived": false,
                 "description": "HIBA is a system built on top of regular OpenSSH certificate-based authentication that allows to manage flexible authorization of principals on pools of target hosts without the need to push customized authorized_users files periodically.",
                 "homepage": "https://github.com/google/hiba",
                 "id": 401256895,
@@ -950,10 +950,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-23T00:57:31Z",
-                "open_issues": 299,
+                "open_issues": 301,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 189922,
+                "stars": 189936,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1044,7 +1044,7 @@
                 "open_issues": 30,
                 "owner": "xxh",
                 "repo": "xxh",
-                "stars": 6098,
+                "stars": 6100,
                 "topics": [
                   "awesome",
                   "awesome-ssh",
@@ -1228,10 +1228,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-24T19:56:21Z",
-                "open_issues": 849,
+                "open_issues": 852,
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70785,
+                "stars": 70787,
                 "topics": [
                   "ansible",
                   "python"
@@ -1417,11 +1417,11 @@
                 "id": 35494746,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T08:20:22Z",
-                "open_issues": 71,
+                "last_commit": "2026-09-26T03:08:00Z",
+                "open_issues": 67,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6553,
+                "stars": 6552,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -1507,7 +1507,7 @@
                 "open_issues": 83,
                 "owner": "desaster",
                 "repo": "kippo",
-                "stars": 1713,
+                "stars": 1714,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -1586,7 +1586,7 @@
                 "open_issues": 115,
                 "owner": "tsl0922",
                 "repo": "ttyd",
-                "stars": 12413,
+                "stars": 12422,
                 "topics": [
                   "openwrt",
                   "ssl",
@@ -1799,7 +1799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T06:12:30.052Z",
+    "last_updated": "2026-09-26T06:12:15.675Z",
     "original_repository_info": {
       "archived": false,
       "description": ":computer: A curated list of SSH resources.",
