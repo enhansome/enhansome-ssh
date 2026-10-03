@@ -556,8 +556,8 @@
                 "id": 27552826,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-01T06:40:11Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-03T06:15:05Z",
+                "open_issues": 18,
                 "owner": "tg123",
                 "repo": "sshpiper",
                 "stars": 1329,
@@ -953,7 +953,7 @@
                 "open_issues": 303,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190046,
+                "stars": 190048,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1630,7 +1630,7 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-07-22T14:40:12Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "pkg",
                 "repo": "sftp",
                 "stars": 1663,
@@ -1799,7 +1799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:12:15.722Z",
+    "last_updated": "2026-10-03T06:38:40.494Z",
     "original_repository_info": {
       "archived": false,
       "description": ":computer: A curated list of SSH resources.",

@@ -4,7 +4,7 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/moul/awesome-ssh/master/logo.jpg" width="400" /></h2>
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,802 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,825 | 🐛 106 | 📅 2026-09-02 list thing.
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
 
@@ -71,7 +71,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [sslh](https://github.com/yrutschle/sslh) ⭐ 5,120 | 🐛 47 | 🌐 C | 📅 2026-09-30 [![stars](https://img.shields.io/github/stars/yrutschle/sslh.svg?style=social\&label=stars)](https://github.com/yrutschle/sslh) ⭐ 5,120 | 🐛 47 | 🌐 C | 📅 2026-09-30 - Applicative Protocol Multiplexer (i.e: *SSH* + *HTTPS*).
 * [localtunnel](https://github.com/progrium/localtunnel) ⭐ 3,226 | 🐛 13 | 🌐 Go | 📅 2022-05-17 [![stars](https://img.shields.io/github/stars/progrium/localtunnel.svg?style=social\&label=stars)](https://github.com/progrium/localtunnel) ⭐ 3,226 | 🐛 13 | 🌐 Go | 📅 2022-05-17 - Expose localhost servers to the Internet.
 * [wssh](https://github.com/aluzzardi/wssh) ⭐ 1,371 | 🐛 26 | 🌐 JavaScript | 📅 2019-02-12 [![stars](https://img.shields.io/github/stars/aluzzardi/wssh.svg?style=social\&label=stars)](https://github.com/aluzzardi/wssh) ⭐ 1,371 | 🐛 26 | 🌐 JavaScript | 📅 2019-02-12 - *SSH* to WebSockets Bridge.
-* [sshpiper](https://github.com/tg123/sshpiper) ⭐ 1,329 | 🐛 21 | 🌐 Go | 📅 2026-10-01 [![stars](https://img.shields.io/github/stars/tg123/sshpiper.svg?style=social\&label=stars)](https://github.com/tg123/sshpiper) ⭐ 1,329 | 🐛 21 | 🌐 Go | 📅 2026-10-01 - The missing reverse proxy for ssh scp.
+* [sshpiper](https://github.com/tg123/sshpiper) ⭐ 1,329 | 🐛 18 | 🌐 Go | 📅 2026-10-03 [![stars](https://img.shields.io/github/stars/tg123/sshpiper.svg?style=social\&label=stars)](https://github.com/tg123/sshpiper) ⭐ 1,329 | 🐛 18 | 🌐 Go | 📅 2026-10-03 - The missing reverse proxy for ssh scp.
 * [switcher](https://github.com/jamescun/switcher) ⭐ 903 | 🐛 4 | 🌐 Go | 📅 2019-03-15 [![stars](https://img.shields.io/github/stars/jamescun/switcher.svg?style=social\&label=stars)](https://github.com/jamescun/switcher) ⭐ 903 | 🐛 4 | 🌐 Go | 📅 2019-03-15 - Run *SSH* and *HTTP(S)* on the same port.
 * [sshttp](https://github.com/stealth/sshttp) ⭐ 893 | 🐛 2 | 🌐 C++ | 📅 2023-06-22 [![stars](https://img.shields.io/github/stars/stealth/sshttp.svg?style=social\&label=stars)](https://github.com/stealth/sshttp) ⭐ 893 | 🐛 2 | 🌐 C++ | 📅 2023-06-22 - *SSH*/*HTTP(S)* multiplexer. Run a webserver and a `sshd` on the same port w/o changes.
 * [quicssh](https://github.com/moul/quicssh) ⭐ 864 | 🐛 22 | 🌐 Go | 📅 2026-09-19 [![stars](https://img.shields.io/github/stars/moul/quicssh.svg?style=social\&label=stars)](https://github.com/moul/quicssh) ⭐ 864 | 🐛 22 | 🌐 Go | 📅 2026-09-19 - QUIC proxy for SSH
@@ -104,7 +104,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### *SSH* agent
 
-* [oh-my-zsh/plugins/ssh-agent](https://github.com/robbyrussell/oh-my-zsh) ⭐ 190,046 | 🐛 303 | 🌐 Shell | 📅 2026-09-29 [![stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh.svg?style=social\&label=stars)](https://github.com/robbyrussell/oh-my-zsh) ⭐ 190,046 | 🐛 303 | 🌐 Shell | 📅 2026-09-29 - `ssh-agent` plugin for `zsh`.
+* [oh-my-zsh/plugins/ssh-agent](https://github.com/robbyrussell/oh-my-zsh) ⭐ 190,048 | 🐛 303 | 🌐 Shell | 📅 2026-09-29 [![stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh.svg?style=social\&label=stars)](https://github.com/robbyrussell/oh-my-zsh) ⭐ 190,048 | 🐛 303 | 🌐 Shell | 📅 2026-09-29 - `ssh-agent` plugin for `zsh`.
 * [ssh-ident](https://github.com/ccontavalli/ssh-ident) ⭐ 985 | 🐛 33 | 🌐 Python | 📅 2022-01-08 [![stars](https://img.shields.io/github/stars/ccontavalli/ssh-ident.svg?style=social\&label=stars)](https://github.com/ccontavalli/ssh-ident) ⭐ 985 | 🐛 33 | 🌐 Python | 📅 2022-01-08 - Different agents and different keys for different projects, with `ssh`.
 * [sshecret](https://github.com/thcipriani/sshecret) ⭐ 72 | 🐛 2 | 🌐 Python | 📅 2024-01-05 - Automatically create and manage multiple agents for multiple keys.
 
@@ -155,7 +155,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * C/C++
   * [libssh](https://www.libssh.org) - The *SSH* library.
 * Golang
-  * [sftp](https://github.com/pkg/sftp) ⭐ 1,663 | 🐛 64 | 🌐 Go | 📅 2026-07-22 [![stars](https://img.shields.io/github/stars/pkg/sftp.svg?style=social\&label=stars)](https://github.com/pkg/sftp) ⭐ 1,663 | 🐛 64 | 🌐 Go | 📅 2026-07-22 - *SFTP* support for the go.crypto/ssh package.
+  * [sftp](https://github.com/pkg/sftp) ⭐ 1,663 | 🐛 65 | 🌐 Go | 📅 2026-07-22 [![stars](https://img.shields.io/github/stars/pkg/sftp.svg?style=social\&label=stars)](https://github.com/pkg/sftp) ⭐ 1,663 | 🐛 65 | 🌐 Go | 📅 2026-07-22 - *SFTP* support for the go.crypto/ssh package.
   * [Socker](https://github.com/cosiner/socker) ⭐ 251 | 🐛 1 | 🌐 Go | 📅 2023-03-29 [![stars](https://img.shields.io/github/stars/cosiner/socker.svg?style=social\&label=stars)](https://github.com/cosiner/socker) ⭐ 251 | 🐛 1 | 🌐 Go | 📅 2023-03-29 - Library for Go to simplify the use of *SSH*.
   * [go-sshkit](https://github.com/shazow/go-sshkit) ⭐ 23 | 🐛 1 | 🌐 Go | 📅 2015-12-28 [![stars](https://img.shields.io/github/stars/shazow/go-sshkit.svg?style=social\&label=stars)](https://github.com/shazow/go-sshkit) ⭐ 23 | 🐛 1 | 🌐 Go | 📅 2015-12-28 - Toolkit for building *SSH* servers and clients in Go.
   * [go-sshkeys](https://github.com/moul/go-sshkeys) ⭐ 5 | 🐛 1 | 🌐 Go | 📅 2023-12-01 - Golang SSH Keys manipulation library
