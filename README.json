@@ -134,10 +134,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-17T15:49:47Z",
-                "open_issues": 3220,
+                "open_issues": 3223,
                 "owner": "gravitational",
                 "repo": "teleport",
-                "stars": 20963,
+                "stars": 20966,
                 "topics": [
                   "audit",
                   "bastion",
@@ -222,8 +222,8 @@
                 "id": 187078631,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T23:11:37Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-05T04:56:27Z",
+                "open_issues": 29,
                 "owner": "shellhub-io",
                 "repo": "shellhub",
                 "stars": 2066,
@@ -258,7 +258,7 @@
                 "open_issues": 81,
                 "owner": "moul",
                 "repo": "sshportal",
-                "stars": 1942,
+                "stars": 1943,
                 "topics": [
                   "bastion",
                   "devops",
@@ -451,11 +451,11 @@
                 "id": 24043280,
                 "language": "Python",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-28T22:38:06Z",
-                "open_issues": 212,
+                "last_commit": "2026-10-05T00:09:21Z",
+                "open_issues": 210,
                 "owner": "sshuttle",
                 "repo": "sshuttle",
-                "stars": 13593,
+                "stars": 13595,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -476,7 +476,7 @@
                 "open_issues": 63,
                 "owner": "libfuse",
                 "repo": "sshfs",
-                "stars": 7691,
+                "stars": 7692,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -493,8 +493,8 @@
                 "id": 11324991,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-30T16:32:14Z",
-                "open_issues": 47,
+                "last_commit": "2026-10-04T09:07:59Z",
+                "open_issues": 46,
                 "owner": "yrutschle",
                 "repo": "sslh",
                 "stars": 5120,
@@ -949,11 +949,11 @@
                 "id": 291137,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-09-29T15:38:41Z",
-                "open_issues": 302,
+                "last_commit": "2026-10-05T06:03:13Z",
+                "open_issues": 303,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190109,
+                "stars": 190154,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1228,10 +1228,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-02T21:01:26Z",
-                "open_issues": 866,
+                "open_issues": 867,
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70841,
+                "stars": 70862,
                 "topics": [
                   "ansible",
                   "python"
@@ -1417,11 +1417,11 @@
                 "id": 35494746,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T06:54:56Z",
-                "open_issues": 63,
+                "last_commit": "2026-10-05T06:03:02Z",
+                "open_issues": 68,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6576,
+                "stars": 6577,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -1556,7 +1556,7 @@
                 "open_issues": 158,
                 "owner": "yudai",
                 "repo": "gotty",
-                "stars": 19554,
+                "stars": 19556,
                 "topics": [
                   "browser",
                   "go",
@@ -1586,7 +1586,7 @@
                 "open_issues": 118,
                 "owner": "tsl0922",
                 "repo": "ttyd",
-                "stars": 12463,
+                "stars": 12467,
                 "topics": [
                   "openwrt",
                   "ssl",
@@ -1731,7 +1731,7 @@
                 "open_issues": 106,
                 "owner": "mscdex",
                 "repo": "ssh2",
-                "stars": 5825,
+                "stars": 5826,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -1756,10 +1756,10 @@
                 "language": "Python",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-08-29T20:45:26Z",
-                "open_issues": 1201,
+                "open_issues": 1204,
                 "owner": "paramiko",
                 "repo": "paramiko",
-                "stars": 9874,
+                "stars": 9875,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -1783,11 +1783,11 @@
                 "id": 231339,
                 "language": "Ruby",
                 "license": "MIT",
-                "last_commit": "2026-08-09T03:49:19Z",
-                "open_issues": 126,
+                "last_commit": "2026-10-05T02:52:42Z",
+                "open_issues": 110,
                 "owner": "net-ssh",
                 "repo": "net-ssh",
-                "stars": 1023,
+                "stars": 1024,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -1799,7 +1799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T07:01:58.586Z",
+    "last_updated": "2026-10-05T07:12:50.572Z",
     "original_repository_info": {
       "archived": false,
       "description": ":computer: A curated list of SSH resources.",
