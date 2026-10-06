@@ -134,7 +134,7 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-17T15:49:47Z",
-                "open_issues": 3228,
+                "open_issues": 3227,
                 "owner": "gravitational",
                 "repo": "teleport",
                 "stars": 20966,
@@ -455,7 +455,7 @@
                 "open_issues": 210,
                 "owner": "sshuttle",
                 "repo": "sshuttle",
-                "stars": 13598,
+                "stars": 13597,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -915,7 +915,7 @@
                 "language": "Perl",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-27T16:17:48Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "dolmen",
                 "repo": "github-keygen",
                 "stars": 272,
@@ -949,11 +949,11 @@
                 "id": 291137,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-05T06:03:13Z",
-                "open_issues": 305,
+                "last_commit": "2026-10-06T09:06:45Z",
+                "open_issues": 303,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190181,
+                "stars": 190179,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1228,10 +1228,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-05T18:49:24Z",
-                "open_issues": 868,
+                "open_issues": 869,
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70864,
+                "stars": 70866,
                 "topics": [
                   "ansible",
                   "python"
@@ -1417,8 +1417,8 @@
                 "id": 35494746,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T06:03:02Z",
-                "open_issues": 68,
+                "last_commit": "2026-10-06T08:51:01Z",
+                "open_issues": 64,
                 "owner": "cowrie",
                 "repo": "cowrie",
                 "stars": 6587,
@@ -1480,7 +1480,7 @@
                 "open_issues": 17,
                 "owner": "jaksi",
                 "repo": "sshesame",
-                "stars": 1744,
+                "stars": 1745,
                 "topics": [
                   "go",
                   "golang",
@@ -1586,7 +1586,7 @@
                 "open_issues": 118,
                 "owner": "tsl0922",
                 "repo": "ttyd",
-                "stars": 12469,
+                "stars": 12470,
                 "topics": [
                   "openwrt",
                   "ssl",
@@ -1799,7 +1799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T07:39:11.819Z",
+    "last_updated": "2026-10-06T10:40:12.653Z",
     "original_repository_info": {
       "archived": false,
       "description": ":computer: A curated list of SSH resources.",
