@@ -40,7 +40,7 @@
             "id": 3049190,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T02:23:38Z",
+            "last_commit": "2026-10-09T18:49:17Z",
             "open_issues": 101,
             "owner": "moul",
             "repo": "assh",
@@ -134,10 +134,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-17T15:49:47Z",
-                "open_issues": 3238,
+                "open_issues": 3242,
                 "owner": "gravitational",
                 "repo": "teleport",
-                "stars": 20969,
+                "stars": 20974,
                 "topics": [
                   "audit",
                   "bastion",
@@ -222,11 +222,11 @@
                 "id": 187078631,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T01:41:36Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-10T03:47:40Z",
+                "open_issues": 40,
                 "owner": "shellhub-io",
                 "repo": "shellhub",
-                "stars": 2067,
+                "stars": 2068,
                 "topics": [
                   "cloud-computing",
                   "embedded",
@@ -434,7 +434,7 @@
                 "open_issues": 0,
                 "owner": "inconshreveable",
                 "repo": "ngrok",
-                "stars": 24407,
+                "stars": 24406,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -455,7 +455,7 @@
                 "open_issues": 211,
                 "owner": "sshuttle",
                 "repo": "sshuttle",
-                "stars": 13600,
+                "stars": 13601,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -476,7 +476,7 @@
                 "open_issues": 63,
                 "owner": "libfuse",
                 "repo": "sshfs",
-                "stars": 7701,
+                "stars": 7703,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -556,8 +556,8 @@
                 "id": 27552826,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-06T04:44:04Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-09T19:23:17Z",
+                "open_issues": 23,
                 "owner": "tg123",
                 "repo": "sshpiper",
                 "stars": 1330,
@@ -949,11 +949,11 @@
                 "id": 291137,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-09T05:46:48Z",
-                "open_issues": 304,
+                "last_commit": "2026-10-09T14:11:18Z",
+                "open_issues": 305,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190042,
+                "stars": 190060,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1227,11 +1227,11 @@
                 "id": 3638964,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T20:39:35Z",
-                "open_issues": 853,
+                "last_commit": "2026-10-09T17:15:59Z",
+                "open_issues": 860,
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70893,
+                "stars": 70949,
                 "topics": [
                   "ansible",
                   "python"
@@ -1329,7 +1329,7 @@
                 "open_issues": 365,
                 "owner": "liftoff",
                 "repo": "GateOne",
-                "stars": 6292,
+                "stars": 6291,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -1421,7 +1421,7 @@
                 "open_issues": 59,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6592,
+                "stars": 6593,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -1556,7 +1556,7 @@
                 "open_issues": 159,
                 "owner": "yudai",
                 "repo": "gotty",
-                "stars": 19554,
+                "stars": 19552,
                 "topics": [
                   "browser",
                   "go",
@@ -1586,7 +1586,7 @@
                 "open_issues": 118,
                 "owner": "tsl0922",
                 "repo": "ttyd",
-                "stars": 12487,
+                "stars": 12485,
                 "topics": [
                   "openwrt",
                   "ssl",
@@ -1629,8 +1629,8 @@
                 "id": 14132192,
                 "language": "Go",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-08T17:28:35Z",
-                "open_issues": 65,
+                "last_commit": "2026-10-09T18:51:49Z",
+                "open_issues": 64,
                 "owner": "pkg",
                 "repo": "sftp",
                 "stars": 1663,
@@ -1731,7 +1731,7 @@
                 "open_issues": 107,
                 "owner": "mscdex",
                 "repo": "ssh2",
-                "stars": 5824,
+                "stars": 5823,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -1759,7 +1759,7 @@
                 "open_issues": 1206,
                 "owner": "paramiko",
                 "repo": "paramiko",
-                "stars": 9879,
+                "stars": 9880,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -1799,7 +1799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T07:30:26.029Z",
+    "last_updated": "2026-10-10T07:18:14.213Z",
     "original_repository_info": {
       "archived": false,
       "description": ":computer: A curated list of SSH resources.",
