@@ -108,11 +108,11 @@
                 "id": 31558937,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-13T23:19:03Z",
-                "open_issues": 3241,
+                "last_commit": "2026-11-17T16:44:18Z",
+                "open_issues": 3236,
                 "owner": "gravitational",
                 "repo": "teleport",
-                "stars": 21109,
+                "stars": 21115,
                 "topics": [
                   "audit",
                   "bastion",
@@ -197,8 +197,8 @@
                 "id": 187078631,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T08:03:54Z",
-                "open_issues": 23,
+                "last_commit": "2026-11-18T02:37:43Z",
+                "open_issues": 21,
                 "owner": "shellhub-io",
                 "repo": "shellhub",
                 "stars": 2251,
@@ -409,7 +409,7 @@
                 "open_issues": 0,
                 "owner": "inconshreveable",
                 "repo": "ngrok",
-                "stars": 24376,
+                "stars": 24377,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -426,11 +426,11 @@
                 "id": 24043280,
                 "language": "Python",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-16T22:23:05Z",
-                "open_issues": 198,
+                "last_commit": "2026-11-18T03:46:22Z",
+                "open_issues": 197,
                 "owner": "sshuttle",
                 "repo": "sshuttle",
-                "stars": 13665,
+                "stars": 13670,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -451,7 +451,7 @@
                 "open_issues": 63,
                 "owner": "libfuse",
                 "repo": "sshfs",
-                "stars": 7755,
+                "stars": 7756,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -532,10 +532,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-16T19:13:10Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "tg123",
                 "repo": "sshpiper",
-                "stars": 1347,
+                "stars": 1348,
                 "topics": [
                   "auditing",
                   "azuread",
@@ -925,10 +925,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-11-16T12:08:14Z",
-                "open_issues": 310,
+                "open_issues": 316,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190643,
+                "stars": 190662,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1084,7 +1084,7 @@
                 "open_issues": 0,
                 "owner": "ssh-vault",
                 "repo": "ssh-vault",
-                "stars": 511,
+                "stars": 512,
                 "topics": [
                   "aes-256",
                   "ed25519",
@@ -1202,11 +1202,11 @@
                 "id": 3638964,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T01:21:09Z",
+                "last_commit": "2026-11-17T22:29:53Z",
                 "open_issues": 890,
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 71467,
+                "stars": 71503,
                 "topics": [
                   "ansible",
                   "python"
@@ -1396,7 +1396,7 @@
                 "open_issues": 63,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6683,
+                "stars": 6684,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -1455,7 +1455,7 @@
                 "open_issues": 17,
                 "owner": "jaksi",
                 "repo": "sshesame",
-                "stars": 1776,
+                "stars": 1778,
                 "topics": [
                   "go",
                   "golang",
@@ -1531,7 +1531,7 @@
                 "open_issues": 159,
                 "owner": "yudai",
                 "repo": "gotty",
-                "stars": 19560,
+                "stars": 19559,
                 "topics": [
                   "browser",
                   "go",
@@ -1561,7 +1561,7 @@
                 "open_issues": 136,
                 "owner": "tsl0922",
                 "repo": "ttyd",
-                "stars": 12647,
+                "stars": 12649,
                 "topics": [
                   "openwrt",
                   "ssl",
@@ -1605,10 +1605,10 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-13T13:16:53Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "pkg",
                 "repo": "sftp",
-                "stars": 1667,
+                "stars": 1668,
                 "topics": [
                   "go",
                   "sftp"
@@ -1734,7 +1734,7 @@
                 "open_issues": 1213,
                 "owner": "paramiko",
                 "repo": "paramiko",
-                "stars": 9905,
+                "stars": 9907,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:19:50.354Z",
+    "last_updated": "2026-11-18T08:39:22.223Z",
     "original_repository_info": {
       "archived": false,
       "description": ":computer: A curated list of SSH resources.",
@@ -1786,7 +1786,7 @@
       "open_issues": 54,
       "owner": "moul",
       "repo": "awesome-ssh",
-      "stars": 2874,
+      "stars": 2877,
       "topics": [
         "awesome",
         "awesome-list",
