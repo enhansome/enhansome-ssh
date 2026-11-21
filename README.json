@@ -109,7 +109,7 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-11-17T16:44:18Z",
-                "open_issues": 3250,
+                "open_issues": 3248,
                 "owner": "gravitational",
                 "repo": "teleport",
                 "stars": 21124,
@@ -151,10 +151,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-19T20:37:58Z",
-                "open_issues": 56,
+                "open_issues": 54,
                 "owner": "shazow",
                 "repo": "ssh-chat",
-                "stars": 5920,
+                "stars": 5921,
                 "topics": [
                   "chat",
                   "server",
@@ -426,11 +426,11 @@
                 "id": 24043280,
                 "language": "Python",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-20T02:03:50Z",
-                "open_issues": 197,
+                "last_commit": "2026-11-20T20:54:13Z",
+                "open_issues": 196,
                 "owner": "sshuttle",
                 "repo": "sshuttle",
-                "stars": 13671,
+                "stars": 13673,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -531,8 +531,8 @@
                 "id": 27552826,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-20T00:44:09Z",
-                "open_issues": 22,
+                "last_commit": "2026-11-20T20:26:25Z",
+                "open_issues": 21,
                 "owner": "tg123",
                 "repo": "sshpiper",
                 "stars": 1348,
@@ -925,10 +925,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-11-16T12:08:14Z",
-                "open_issues": 316,
+                "open_issues": 318,
                 "owner": "ohmyzsh",
                 "repo": "ohmyzsh",
-                "stars": 190700,
+                "stars": 190716,
                 "topics": [
                   "cli",
                   "cli-app",
@@ -1203,10 +1203,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-19T21:15:12Z",
-                "open_issues": 880,
+                "open_issues": 881,
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 71524,
+                "stars": 71536,
                 "topics": [
                   "ansible",
                   "python"
@@ -1396,7 +1396,7 @@
                 "open_issues": 64,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6688,
+                "stars": 6689,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -1455,7 +1455,7 @@
                 "open_issues": 17,
                 "owner": "jaksi",
                 "repo": "sshesame",
-                "stars": 1775,
+                "stars": 1776,
                 "topics": [
                   "go",
                   "golang",
@@ -1561,7 +1561,7 @@
                 "open_issues": 136,
                 "owner": "tsl0922",
                 "repo": "ttyd",
-                "stars": 12658,
+                "stars": 12662,
                 "topics": [
                   "openwrt",
                   "ssl",
@@ -1706,7 +1706,7 @@
                 "open_issues": 116,
                 "owner": "mscdex",
                 "repo": "ssh2",
-                "stars": 5825,
+                "stars": 5826,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:58:22.722Z"
@@ -1731,7 +1731,7 @@
                 "language": "Python",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-10-18T02:38:54Z",
-                "open_issues": 1212,
+                "open_issues": 1214,
                 "owner": "paramiko",
                 "repo": "paramiko",
                 "stars": 9906,
@@ -1774,7 +1774,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T08:41:35.109Z",
+    "last_updated": "2026-11-21T08:22:42.040Z",
     "original_repository_info": {
       "archived": false,
       "description": ":computer: A curated list of SSH resources.",
